@@ -1,0 +1,124 @@
+{
+  "ventas": [
+    {
+      "id": "V001",
+      "vendedor": "Juan*García",
+      "cliente": "Ana#Martín",
+      "producto": "Monitor*LG@27\"",
+      "cantidad": "5",
+      "precio_unitario": "€299.99",
+      "total": "$ 1.499,95",
+      "fecha_venta": "2024-01-15",
+      "comisión": "¥14.999,50",
+      "descripción": "Venta~Bulk&Monitor#LED@4K"
+    },
+    {
+      "id": "V002",
+      "vendedor": "María@Pérez",
+      "cliente": "Carlos^Sánchez",
+      "producto": "Teclado~Mecánico",
+      "cantidad": "12",
+      "precio_unitario": "$ 89.50",
+      "total": "€1.074,00",
+      "fecha_venta": "15/01/2024",
+      "comisión": "107.40€",
+      "descripción": "Compra*Mayorista&Teclados#RGB"
+    },
+    {
+      "id": "V003",
+      "vendedor": "José~María",
+      "cliente": "Elena#López",
+      "producto": "Mouse@Logitech",
+      "cantidad": "8",
+      "precio_unitario": "¥4.500",
+      "total": "$ 36.000",
+      "fecha_venta": "2024.01.20",
+      "comisión": "",
+      "descripción": "Venta~Internacional*Ratones"
+    },
+    {
+      "id": "V004",
+      "vendedor": "Ana*Martín",
+      "cliente": "Víctor%García",
+      "producto": "Webcam*HD#1080p",
+      "cantidad": "3",
+      "precio_unitario": "€79.99",
+      "total": "$ 240,00",
+      "fecha_venta": "20-01-2024",
+      "comisión": "€24.00",
+      "descripción": "Venta@Streaming&Cámaras"
+    },
+    {
+      "id": "V005",
+      "vendedor": "Luis@Carlos",
+      "cliente": "Sofía^Rodríguez",
+      "producto": "Auriculares*Sony",
+      "cantidad": "2",
+      "precio_unitario": "$ 199.99",
+      "total": "¥40.000",
+      "fecha_venta": "2024/01/25",
+      "comisión": "$ 40.00",
+      "descripción": "Compra~Premium#Auriculares&Audio"
+    },
+    {
+      "id": "V006",
+      "vendedor": "Carmen*Rosa",
+      "cliente": "Roberto~López",
+      "producto": "Hub*USB-C@7in1",
+      "cantidad": "15",
+      "precio_unitario": "€59.90",
+      "total": "$ 898,50",
+      "fecha_venta": "25.01.2024",
+      "comisión": "€89.85",
+      "descripción": "Venta&Mayorista~Hubs#Conexión"
+    },
+    {
+      "id": "V007",
+      "vendedor": "Francisco^García",
+      "cliente": "Magdalena#Sánchez",
+      "producto": "Micrófono%Condenser",
+      "cantidad": "4",
+      "precio_unitario": "¥12.800",
+      "total": "€51.200",
+      "fecha_venta": "01-26-2024",
+      "comisión": "",
+      "descripción": "Venta~Studio*Audio@Premium"
+    },
+    {
+      "id": "V008",
+      "vendedor": "Isabel@María",
+      "cliente": "Óscar*Pérez",
+      "producto": "Cable*HDMI#2.1",
+      "cantidad": "25",
+      "precio_unitario": "€14.99",
+      "total": "$ 375,00",
+      "fecha_venta": "2024/01/28",
+      "comisión": "¥3.750",
+      "descripción": "Compra&Bulk~Cables#Conexión"
+    },
+    {
+      "id": "V009",
+      "vendedor": "Diego*José",
+      "cliente": "Iris^García",
+      "producto": "SSD~Samsung@1TB",
+      "cantidad": "6",
+      "precio_unitario": "$ 129.99",
+      "total": "€779,94",
+      "fecha_venta": "28.01.2024",
+      "comisión": "€77.99",
+      "descripción": "Venta*Almacenamiento&SSD"
+    },
+    {
+      "id": "V010",
+      "vendedor": "Sofía#García",
+      "cliente": "Gonzalo%López",
+      "producto": "Memoria*RAM#32GB",
+      "cantidad": "3",
+      "precio_unitario": "€189.50",
+      "total": "$ 568,50",
+      "fecha_venta": "2024-02-01",
+      "comisión": "",
+      "descripción": "Compra~Premium*Memoria&DDR5"
+    }
+  ]
+}
